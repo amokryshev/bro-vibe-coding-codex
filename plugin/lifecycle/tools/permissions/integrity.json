@@ -1,0 +1,29 @@
+{
+  "tool": "permissions",
+  "files": {
+    "payload/permissions/policy.json": {
+      "sha256": "4f5bc202c289171192cf8ae455a3e3e7dd178564d6810fa5faccc3c8ceec8f8d"
+    },
+    "lifecycle/tools/permissions/command-permissions.mjs": {
+      "sha256": "a6eb7ed8ec007ceff52bdf29fb2d87e1cd8cb2004f50b7d805c8c67eaf4baf46"
+    },
+    "lifecycle/tools/permissions/configure-project.mjs": {
+      "sha256": "3008b65152912a26373efe67a0e407eb70956b88cc1ab5186589dec793233fb0"
+    },
+    "lifecycle/tools/permissions/configure-system.mjs": {
+      "sha256": "7e34eaa0b7662f817beb9603162dcb2986e58a6db2aed976eea89f2cc5c2d5b4"
+    },
+    "lifecycle/tools/permissions/install.mjs": {
+      "sha256": "37fb4dd2a923016e51a54aba58392f96a277a9ad0cf126f95f0c2411f6203de7"
+    },
+    "lifecycle/tools/permissions/integrity.mjs": {
+      "sha256": "f9fef40faebc41d2c2ecb0eb6b0d3d89ee02fc16448a2ad82d8e27dc3e19fe3b"
+    },
+    "lifecycle/tools/permissions/uninstall-project.mjs": {
+      "sha256": "b6e7b80eb0656878b0c64374f9d509d4aa978d238a2e6700fdf2b1e39b439bc9"
+    },
+    "lifecycle/tools/permissions/uninstall-system.mjs": {
+      "sha256": "b6e7b80eb0656878b0c64374f9d509d4aa978d238a2e6700fdf2b1e39b439bc9"
+    }
+  }
+}

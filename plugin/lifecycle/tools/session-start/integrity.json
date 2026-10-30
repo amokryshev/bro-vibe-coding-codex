@@ -1,0 +1,29 @@
+{
+  "tool": "session-start",
+  "files": {
+    "payload/session-start/hook.mjs": {
+      "sha256": "5d0133699be62ec67dde30db4889af84045900e696a4c05cb0cc958fa2c5079c"
+    },
+    "payload/session-start/prompt.md": {
+      "sha256": "79293f1f331b70315396eadb53b98a6f9a8f74b2c0cd8648fec9816741da3fe1"
+    },
+    "lifecycle/tools/session-start/configure-project.mjs": {
+      "sha256": "654ec9c4e6c503c3b22acdf32cacd161e8bcab79481797c9ff6dc74d84ae1d42"
+    },
+    "lifecycle/tools/session-start/configure-system.mjs": {
+      "sha256": "02628e5a38d2f6807d21109e9f16f6fd727028700f1b881abd586512e1b3b05d"
+    },
+    "lifecycle/tools/session-start/install.mjs": {
+      "sha256": "37fb4dd2a923016e51a54aba58392f96a277a9ad0cf126f95f0c2411f6203de7"
+    },
+    "lifecycle/tools/session-start/integrity.mjs": {
+      "sha256": "f9fef40faebc41d2c2ecb0eb6b0d3d89ee02fc16448a2ad82d8e27dc3e19fe3b"
+    },
+    "lifecycle/tools/session-start/uninstall-project.mjs": {
+      "sha256": "b5614bd1b45d9b434bb21d1de984f2f64ad8e9a8a30855b0023971ed2421a7ea"
+    },
+    "lifecycle/tools/session-start/uninstall-system.mjs": {
+      "sha256": "b6e7b80eb0656878b0c64374f9d509d4aa978d238a2e6700fdf2b1e39b439bc9"
+    }
+  }
+}

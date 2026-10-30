@@ -1,0 +1,19 @@
+{
+  "schema": "bro.legal-release-source/v1",
+  "approvalStatus": "approved",
+  "license": {
+    "sourcePath": "legal/LICENSE",
+    "sha256": "bb83e1499a3a3e35b3a8c90cc29c5aa25cf14136ad0778fd7b1779705336650c",
+    "revision": "1.0",
+    "publicOfferRevision": "ffbf3449069f"
+  },
+  "publicOffer": {
+    "evidenceId": "public-offer-ffbf3449069f-20260901",
+    "canonicalUrl": "https://amokryshev.ru/offer/",
+    "revision": "ffbf3449069f",
+    "retrievedAtUtc": "2026-09-01T10:40:49Z",
+    "snapshotSourcePath": "legal/public-offer/snapshot.html",
+    "snapshotSha256": "25eef35316ec16d7b12b83f4dea070e509325da3521edf180900729999ba12aa",
+    "evidenceSourcePath": "legal/public-offer/evidence.json"
+  }
+}

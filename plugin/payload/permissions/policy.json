@@ -1,0 +1,186 @@
+{
+  "bro-atlassian": {
+    "default_tools_approval_mode": "writes",
+    "tools": {
+      "createJiraIssue": {
+        "approval_mode": "approve"
+      },
+      "editJiraIssue": {
+        "approval_mode": "approve"
+      },
+      "transitionJiraIssue": {
+        "approval_mode": "approve"
+      },
+      "addCommentToJiraIssue": {
+        "approval_mode": "approve"
+      },
+      "addWorklogToJiraIssue": {
+        "approval_mode": "approve"
+      },
+      "createIssueLink": {
+        "approval_mode": "approve"
+      },
+      "atlassianUserInfo": {
+        "approval_mode": "approve"
+      },
+      "getAccessibleAtlassianResources": {
+        "approval_mode": "approve"
+      },
+      "getVisibleJiraProjects": {
+        "approval_mode": "approve"
+      },
+      "getJiraIssue": {
+        "approval_mode": "approve"
+      },
+      "searchJiraIssuesUsingJql": {
+        "approval_mode": "approve"
+      },
+      "getTransitionsForJiraIssue": {
+        "approval_mode": "approve"
+      },
+      "getJiraIssueRemoteIssueLinks": {
+        "approval_mode": "approve"
+      },
+      "getIssueLinkTypes": {
+        "approval_mode": "approve"
+      },
+      "getJiraIssueTypeMetaWithFields": {
+        "approval_mode": "approve"
+      },
+      "getJiraProjectIssueTypesMetadata": {
+        "approval_mode": "approve"
+      },
+      "lookupJiraAccountId": {
+        "approval_mode": "approve"
+      },
+      "search": {
+        "approval_mode": "approve"
+      },
+      "fetch": {
+        "approval_mode": "approve"
+      },
+      "getConfluencePage": {
+        "approval_mode": "approve"
+      },
+      "getConfluenceSpaces": {
+        "approval_mode": "approve"
+      },
+      "getPagesInConfluenceSpace": {
+        "approval_mode": "approve"
+      },
+      "getConfluencePageDescendants": {
+        "approval_mode": "approve"
+      },
+      "getConfluencePageFooterComments": {
+        "approval_mode": "approve"
+      },
+      "getConfluencePageInlineComments": {
+        "approval_mode": "approve"
+      },
+      "getConfluenceCommentChildren": {
+        "approval_mode": "approve"
+      },
+      "searchConfluenceUsingCql": {
+        "approval_mode": "approve"
+      },
+      "getContentFormatGuide": {
+        "approval_mode": "approve"
+      },
+      "createConfluenceFooterComment": {
+        "approval_mode": "prompt"
+      },
+      "createConfluenceInlineComment": {
+        "approval_mode": "prompt"
+      },
+      "createConfluencePage": {
+        "approval_mode": "prompt"
+      },
+      "updateConfluencePage": {
+        "approval_mode": "prompt"
+      }
+    },
+    "claude_ask_patterns": [
+      "createConfluence*",
+      "updateConfluence*"
+    ]
+  },
+  "bro-playwright": {
+    "default_tools_approval_mode": "writes",
+    "tools": {
+      "browser_snapshot": {
+        "approval_mode": "approve"
+      },
+      "browser_take_screenshot": {
+        "approval_mode": "approve"
+      },
+      "browser_console_messages": {
+        "approval_mode": "approve"
+      },
+      "browser_network_requests": {
+        "approval_mode": "approve"
+      },
+      "browser_wait_for": {
+        "approval_mode": "approve"
+      },
+      "browser_tabs": {
+        "approval_mode": "prompt"
+      },
+      "browser_navigate": {
+        "approval_mode": "prompt"
+      },
+      "browser_evaluate": {
+        "approval_mode": "prompt"
+      },
+      "browser_run_code": {
+        "approval_mode": "prompt"
+      }
+    }
+  },
+  "bro-email": {
+    "default_tools_approval_mode": "writes",
+    "tools": {
+      "list_accounts": {
+        "approval_mode": "approve"
+      },
+      "list_mailboxes": {
+        "approval_mode": "approve"
+      },
+      "list_labels": {
+        "approval_mode": "approve"
+      },
+      "list_emails": {
+        "approval_mode": "approve"
+      },
+      "get_emails": {
+        "approval_mode": "approve"
+      },
+      "get_email": {
+        "approval_mode": "approve"
+      },
+      "get_thread": {
+        "approval_mode": "approve"
+      },
+      "get_email_status": {
+        "approval_mode": "approve"
+      },
+      "get_email_stats": {
+        "approval_mode": "approve"
+      },
+      "search_emails": {
+        "approval_mode": "approve"
+      },
+      "find_email_folder": {
+        "approval_mode": "approve"
+      },
+      "check_health": {
+        "approval_mode": "approve"
+      },
+      "download_attachment": {
+        "approval_mode": "prompt"
+      },
+      "extract_contacts": {
+        "approval_mode": "prompt"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "bro.playwright-platform/v1",
+  "platform": "linux-x64",
+  "browser": "chromium-headless-shell",
+  "revision": "1202",
+  "version": "143.0.7499.25",
+  "executable": "chrome-headless-shell-linux64/chrome-headless-shell",
+  "archive": {
+    "sha256": "c57508303e15a73770ff0d014a765f63d9112d5e012c269597a7a87f518bf8b4",
+    "size": 115043037,
+    "url": "https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1202/chromium-headless-shell-linux.zip"
+  },
+  "chunks": [
+    {
+      "name": "browser-000.part",
+      "size": 52428800,
+      "sha256": "f8346df4f53c3399f4c76bd0e2ab8ce20860db63cc6465448de7968930e06407"
+    },
+    {
+      "name": "browser-001.part",
+      "size": 52428800,
+      "sha256": "5fd553e2de0d8437267b8ba8d544ebc0b4087f8c026d547e175ad86912cd9d72"
+    },
+    {
+      "name": "browser-002.part",
+      "size": 10185437,
+      "sha256": "81874930a9b8ccd9daa2faa0a279d2ae831132493629ac766af60ef9328b0c28"
+    }
+  ]
+}

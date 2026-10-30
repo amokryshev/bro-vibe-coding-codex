@@ -1,0 +1,317 @@
+{
+  "tool": "bro-matt",
+  "files": {
+    "payload/bro-matt/ADAPTATIONS.md": {
+      "sha256": "643c1fc44c2e5809c3d3b0aad144814cd30229910e7bc7f8bfbd02fe47d8400c"
+    },
+    "payload/bro-matt/legal/public-offer/evidence.json": {
+      "sha256": "0e2a5a273f7bc1f222184d4c10e8962ebd8afbaca060ce15723a053bcd52c667"
+    },
+    "payload/bro-matt/legal/public-offer/snapshot.html": {
+      "sha256": "25eef35316ec16d7b12b83f4dea070e509325da3521edf180900729999ba12aa"
+    },
+    "payload/bro-matt/legal/release-paths.json": {
+      "sha256": "61ed161d2b3cce30a5a1f7265cba62561f683c4bed8e0c73212872f27d3adcd3"
+    },
+    "payload/bro-matt/legal/source-manifest.json": {
+      "sha256": "ecb96dd979169e7f7d022a652fd80ed5499f1006059cc454942e23a081aa040b"
+    },
+    "payload/bro-matt/LICENSE": {
+      "sha256": "bb83e1499a3a3e35b3a8c90cc29c5aa25cf14136ad0778fd7b1779705336650c"
+    },
+    "payload/bro-matt/matt-pack.json": {
+      "sha256": "b6a6291c799613e9fe66f6576bb0d5d00470550c5bc3f46d2a856504a01be5b7"
+    },
+    "payload/bro-matt/provenance.json": {
+      "sha256": "f288586b61fc6513c61bd904482b4a6dc91fbf4b7697249d37c6c22dedd1b467"
+    },
+    "payload/bro-matt/skills/ask-matt/agents/openai.yaml": {
+      "sha256": "bdffbc5a0a99ed1b6ef3253d251d755fd18162b9845972e380007f844b09b05c"
+    },
+    "payload/bro-matt/skills/ask-matt/PHASE-BOUNDARIES.md": {
+      "sha256": "a8aa20158609ef39e2b308b6ba0660c91066838d07a867202e63a7744a88a3ed"
+    },
+    "payload/bro-matt/skills/ask-matt/SKILL.md": {
+      "sha256": "5b3ae05c077542899db75c9f001c27ead61c8a625b164620b9eb4d043e38807c"
+    },
+    "payload/bro-matt/skills/bro/agents/openai.yaml": {
+      "sha256": "a1499d95abd8447558c535fe5554adcc3c9b988a0a39264a6283d430effe1e94"
+    },
+    "payload/bro-matt/skills/bro/references/examples.md": {
+      "sha256": "28945ecdd8d7e9e5e268537a3c70ee956d6c8c5901c406f7e4767e2ca6687bad"
+    },
+    "payload/bro-matt/skills/bro/references/host-usage.md": {
+      "sha256": "960f662e46380d67d211aa8b9cfa051874821df71b3b82d94d938e51fe2156eb"
+    },
+    "payload/bro-matt/skills/bro/references/project-context-review.md": {
+      "sha256": "f22e593ab4e9ef86319f6da6ce4b542e37088e299a4534edd42216691b61d606"
+    },
+    "payload/bro-matt/skills/bro/references/work-records.md": {
+      "sha256": "4b1617263b965873a0ba450e33b60ae5924139303ad45b71ea58773f321b492e"
+    },
+    "payload/bro-matt/skills/bro/SKILL.md": {
+      "sha256": "3a2aaceffb15a34cf620c54eb2485e2c89bda283e3221168214cf0cac346350f"
+    },
+    "payload/bro-matt/skills/code-review/agents/openai.yaml": {
+      "sha256": "8229ca854e11dc8e6aef2131ee03f31fb1561cf905fab9ccc325180cf3331352"
+    },
+    "payload/bro-matt/skills/code-review/SKILL.md": {
+      "sha256": "6275fe4dc0fc7ea436a622c11e4b59fcbfd023c4ba6830c55e51997ce4e79b19"
+    },
+    "payload/bro-matt/skills/codebase-design/agents/openai.yaml": {
+      "sha256": "edebc9e4fcfe102114012575eaa9600b9b5fd08c311664f389c36e7bc717740f"
+    },
+    "payload/bro-matt/skills/codebase-design/DEEPENING.md": {
+      "sha256": "f3dd099ce99289bd213914d8ee3e2429b78309c3957ca4583f7659551b1d53c1"
+    },
+    "payload/bro-matt/skills/codebase-design/DESIGN-IT-TWICE.md": {
+      "sha256": "e08cc41c8a67064bd63d3e251332c997bc47bf8de9be857c9fb58b4217cb681c"
+    },
+    "payload/bro-matt/skills/codebase-design/SKILL.md": {
+      "sha256": "612dd9d7219451e65510198808126344c806c7d2747f66eb451ee725c0707e76"
+    },
+    "payload/bro-matt/skills/diagnosing-bugs/agents/openai.yaml": {
+      "sha256": "3e430dbe4334a87597488c060cb3dc3786bb00c9182877d6f5ec41f62490e90b"
+    },
+    "payload/bro-matt/skills/diagnosing-bugs/scripts/hitl-loop.template.sh": {
+      "sha256": "35103539fc36873eea36074769ad454f9379d6fc8b2dc0e26ce987fd3bfe5503"
+    },
+    "payload/bro-matt/skills/diagnosing-bugs/SKILL.md": {
+      "sha256": "14a28e0dc4368d6bb54f52a5654d3ba8b1690f6394741deaa6ac3f864923c956"
+    },
+    "payload/bro-matt/skills/domain-modeling/ADR-FORMAT.md": {
+      "sha256": "944c92aa790e8fbdc9199640b170979abb8a34ba8d0fe18c2a01a63bce140ca0"
+    },
+    "payload/bro-matt/skills/domain-modeling/agents/openai.yaml": {
+      "sha256": "f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b"
+    },
+    "payload/bro-matt/skills/domain-modeling/GLOSSARY-FORMAT.md": {
+      "sha256": "92becb584bedffae84fb9695f590f04e1cf3add36ab1212f567b5519285031fb"
+    },
+    "payload/bro-matt/skills/domain-modeling/SKILL.md": {
+      "sha256": "37af7bccfeff85e8ce829eb782ca3538086a917cb40de0b09def48eb619b4366"
+    },
+    "payload/bro-matt/skills/grill-me/agents/openai.yaml": {
+      "sha256": "c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b"
+    },
+    "payload/bro-matt/skills/grill-me/SKILL.md": {
+      "sha256": "c1f948b3e5f5852a38cb7f2e04324766caa9914db170d434a591c35b5618d16c"
+    },
+    "payload/bro-matt/skills/grill-with-docs/agents/openai.yaml": {
+      "sha256": "94cd0ab161fb468a836349f5ed482ba58ce8e709a05c57ce533d739dbd35cca9"
+    },
+    "payload/bro-matt/skills/grill-with-docs/SKILL.md": {
+      "sha256": "eee2f34ac6ecd9a75cc1148c0f7c5d14a8d0528ae5d8cf0f9b8d019542f54d6a"
+    },
+    "payload/bro-matt/skills/grilling/agents/openai.yaml": {
+      "sha256": "1411d7df7d99b7e621a1ff8283c8133cc2464be63d064e52d8ce169c6800ee9b"
+    },
+    "payload/bro-matt/skills/grilling/SKILL.md": {
+      "sha256": "796c3027fe25153c678fa83476dfaedcc89430652e7728bc87d342d97aab6272"
+    },
+    "payload/bro-matt/skills/handoff/agents/openai.yaml": {
+      "sha256": "5c479fd562c691851690e8b18c8501045bef0943c10743d636b2fae26add1d28"
+    },
+    "payload/bro-matt/skills/handoff/SKILL.md": {
+      "sha256": "34a7ed39e30bc993135aeda7bbd654ecb2bea2d9b1ff95b46d80272672d14ed8"
+    },
+    "payload/bro-matt/skills/implement/agents/openai.yaml": {
+      "sha256": "8970a8596ade0c28ab427f41a4ea242d6bdf6186c59ebf55e1238dbecaab79dc"
+    },
+    "payload/bro-matt/skills/implement/SKILL.md": {
+      "sha256": "bea88d9ac5b8c88d3b066019ba066786cf2a2185ec8dbe4581e8f72ac5a40f62"
+    },
+    "payload/bro-matt/skills/implement-spec/agents/openai.yaml": {
+      "sha256": "fd41efb42c60c96320d6531be7e4bf15cbf5518cd652d57dff27ccffa46988e9"
+    },
+    "payload/bro-matt/skills/implement-spec/SKILL.md": {
+      "sha256": "1dd3d9b9673c1de5e37b41c14e1419e51b2350d83ab5f1eb535fc892ff02f84b"
+    },
+    "payload/bro-matt/skills/improve-codebase-architecture/agents/openai.yaml": {
+      "sha256": "c8cb20f68ebf0edb4e497bc11ae5fcaa196004e661cd189015b04f4109ced7f1"
+    },
+    "payload/bro-matt/skills/improve-codebase-architecture/HTML-REPORT.md": {
+      "sha256": "581e8bb5a521e46bbda8ca7e19b15948bed882187108092ebb90c62513b77528"
+    },
+    "payload/bro-matt/skills/improve-codebase-architecture/SKILL.md": {
+      "sha256": "af9e450a3f2eb1ea5111d2351eae076ad7727418be006618548b5d4bae1f3003"
+    },
+    "payload/bro-matt/skills/pr/agents/openai.yaml": {
+      "sha256": "2295b586624db4ef546f3fd4695492f039d941a46d8a1593a702ce3ca511b8ad"
+    },
+    "payload/bro-matt/skills/pr/CREDITS.md": {
+      "sha256": "a7a087127665d7298a72280ef6e19c41ad8404523712a788c8dc3ab414bc2497"
+    },
+    "payload/bro-matt/skills/pr/SKILL.md": {
+      "sha256": "5125a72e0edfb61093ad112ac71923f4377d754dcf2fc51c659aa6d9ee160474"
+    },
+    "payload/bro-matt/skills/prototype/agents/openai.yaml": {
+      "sha256": "5af65e43ab41a350436697b81e27b7f848d36782043b73c322bb2c9fa9cc55dc"
+    },
+    "payload/bro-matt/skills/prototype/LOGIC.md": {
+      "sha256": "f61c7d249e786a79ef289018901c348271e1798dd0b0bc5607b5c6f4d4a01ab9"
+    },
+    "payload/bro-matt/skills/prototype/SKILL.md": {
+      "sha256": "9f0b1bec4959311fc384860b9161249e5cefc65abbace8045b6e83ca5dde48e6"
+    },
+    "payload/bro-matt/skills/prototype/UI.md": {
+      "sha256": "723211e878acbc7b6ff09755263f3295cde724ba902ff0064da41eed51d45ad3"
+    },
+    "payload/bro-matt/skills/research/agents/openai.yaml": {
+      "sha256": "9b4c470d63221c1f68f22df70b83e2f12401b317babe0d1b7b5f24a974474d0d"
+    },
+    "payload/bro-matt/skills/research/SKILL.md": {
+      "sha256": "ef046dda1deafdafcad91da4dc67bf0c52f19fbb22e4d89e9ec6ea59d10c2bd3"
+    },
+    "payload/bro-matt/skills/retro/agents/openai.yaml": {
+      "sha256": "cb6fb9d7e6b4be5975f41f6def1dd00a1255bad5d9b02696b124c924a8b8745c"
+    },
+    "payload/bro-matt/skills/retro/SKILL.md": {
+      "sha256": "6bde81b8b553b191e3e88c97f62313f84960362edf936ff4d8ae0c8d8f58c5ce"
+    },
+    "payload/bro-matt/skills/setup-matt-pocock-skills/agents/openai.yaml": {
+      "sha256": "9527de0110541c45712319025155aeab8dc7d77c6ed6e5e83271bab1851ab939"
+    },
+    "payload/bro-matt/skills/setup-matt-pocock-skills/domain.md": {
+      "sha256": "edc6d6131fdffc4b7135704f5262124fc43355c95f61b7399dc5a4db643e28ca"
+    },
+    "payload/bro-matt/skills/setup-matt-pocock-skills/issue-tracker-github.md": {
+      "sha256": "6fdb3e9b00b7b0b115ecac3b1c00e3790f637f190abf598815368722c0a94692"
+    },
+    "payload/bro-matt/skills/setup-matt-pocock-skills/issue-tracker-gitlab.md": {
+      "sha256": "947602d33a80f98f939fb990995b8f95a3459b114b919c4221d08bd75d7cffe0"
+    },
+    "payload/bro-matt/skills/setup-matt-pocock-skills/issue-tracker-local.md": {
+      "sha256": "7dcda20a2eb4bdc89b95d1143423c0691309921cadae3132e6424f371030506e"
+    },
+    "payload/bro-matt/skills/setup-matt-pocock-skills/SKILL.md": {
+      "sha256": "4ea77b738e56aaa56db08ee63c44b7e502a06f44e19abb87afce54c3b73bca7c"
+    },
+    "payload/bro-matt/skills/setup-matt-pocock-skills/triage-labels.md": {
+      "sha256": "ae512af838c78b8750471c42cd2b20fa32319553e61d84c9a23d171b40ce14aa"
+    },
+    "payload/bro-matt/skills/tdd/agents/openai.yaml": {
+      "sha256": "ea6f01cf1b8c06a4b0f5b649d74b1b8ce8685e72af1b38d70d877693e092af0b"
+    },
+    "payload/bro-matt/skills/tdd/mocking.md": {
+      "sha256": "3ceb807fdf4a47d6a93d4d9a891e5ba6d362a6247bd08adc451feebfc17361ef"
+    },
+    "payload/bro-matt/skills/tdd/SKILL.md": {
+      "sha256": "8ac3dc46e7a033128021e5d760da8a57699180b3e7ba3406065c6fa72648af9d"
+    },
+    "payload/bro-matt/skills/tdd/tests.md": {
+      "sha256": "859f9e592c188fda4fc7277dd180e4ce9c7a2e13f6efe1f6f29eccc9d28c106a"
+    },
+    "payload/bro-matt/skills/teach/agents/openai.yaml": {
+      "sha256": "5856f3ae8aec742f1499c640aecdd5f1d6af5fa210a7c6ec794de8263a6f733f"
+    },
+    "payload/bro-matt/skills/teach/GLOSSARY-FORMAT.md": {
+      "sha256": "9b99859ec28437668130d8f2ce5a342938970f8a1ed4fd38c3eab4f4b5fff210"
+    },
+    "payload/bro-matt/skills/teach/LEARNING-RECORD-FORMAT.md": {
+      "sha256": "701fa34b6748aa89e6c960ffb815257f481a7d77fb2900f9028f7edf3fdd6052"
+    },
+    "payload/bro-matt/skills/teach/MISSION-FORMAT.md": {
+      "sha256": "8cacbb3c0644d3ae0ea4965564797099401a6930a23f7cf462918576587f2418"
+    },
+    "payload/bro-matt/skills/teach/RESOURCES-FORMAT.md": {
+      "sha256": "e9cacf34026e11a8d1c8f9de88abe5bcbf654f4ebdb25cae8c0de0d5f48f44ec"
+    },
+    "payload/bro-matt/skills/teach/SKILL.md": {
+      "sha256": "287fcdf3a014897317491b45dd809e8b91975d59ed3624627b84a2209baace09"
+    },
+    "payload/bro-matt/skills/to-questionnaire/agents/openai.yaml": {
+      "sha256": "9e8a06c38c8842eea8d4922cb9d1ead8e3ace647bab259b943c994a1b4742bc2"
+    },
+    "payload/bro-matt/skills/to-questionnaire/SKILL.md": {
+      "sha256": "dd689bb89714e74b6828414644740ccdeab52e1276a97080e5738b53759f7e0e"
+    },
+    "payload/bro-matt/skills/to-spec/agents/openai.yaml": {
+      "sha256": "1c5b4d1e3d8e52287ef19cc2742fdbbfae1914ac75d33af3e4c8174f08cc55bb"
+    },
+    "payload/bro-matt/skills/to-spec/SKILL.md": {
+      "sha256": "0032933e295d74d01cc2ddd28a433c911209e919954927d7267d5110957ba684"
+    },
+    "payload/bro-matt/skills/to-tickets/agents/openai.yaml": {
+      "sha256": "21bc6215fffcd7614e9f772bb1760e87cc5fc7dcc707e7d282bc9414267a6090"
+    },
+    "payload/bro-matt/skills/to-tickets/SKILL.md": {
+      "sha256": "bf9a49637fe24b612e5ac6049de09bfd15f38b691e37426ea6c870c047c2ddc6"
+    },
+    "payload/bro-matt/skills/triage/AGENT-BRIEF.md": {
+      "sha256": "7f5f87fed3033df1b06e083c480f3e847b1fbb0647746b8a4c6a50f9f26ef44f"
+    },
+    "payload/bro-matt/skills/triage/agents/openai.yaml": {
+      "sha256": "2e683717720cf456d165d0bb1a68bb600d0b6a8ccb61841c172e50d26f95351c"
+    },
+    "payload/bro-matt/skills/triage/OUT-OF-SCOPE.md": {
+      "sha256": "1fbf9b432130c6380aa65813b55553cfda150309b27c595e183f8e335b8a190d"
+    },
+    "payload/bro-matt/skills/triage/SKILL.md": {
+      "sha256": "904cbfb0c887d0b67f3dd645d01508f81781337111e06d98b96e12e7ff4002a1"
+    },
+    "payload/bro-matt/skills/wait-what/agents/openai.yaml": {
+      "sha256": "b41faadf741d51e4ea184148b2d1854d93f947aaf754c7844f70a00f04194999"
+    },
+    "payload/bro-matt/skills/wait-what/SKILL.md": {
+      "sha256": "473536da4b36492bef9457d04e81708af6cd5764360f917b01a7646a089c6d29"
+    },
+    "payload/bro-matt/skills/wayfinder/agents/openai.yaml": {
+      "sha256": "88bc81a11a6d52ac67aeaa76b8b619e387020d47c5133a4dd4927fd15c4ad073"
+    },
+    "payload/bro-matt/skills/wayfinder/SKILL.md": {
+      "sha256": "6b003f7abd9e65bd86638dd7121de720519d0d2c22d7686528ae1938e27f70f3"
+    },
+    "payload/bro-matt/skills/wizard/agents/openai.yaml": {
+      "sha256": "98f44d682d58e262f160dc59a8befc365e0aa65820dd0261864af26aa8e59d83"
+    },
+    "payload/bro-matt/skills/wizard/SKILL.md": {
+      "sha256": "2c21ce47ded82748d22b5d5572ece8e11dfcf3d3e58e9ae329f4cfe8ad75c1ae"
+    },
+    "payload/bro-matt/skills/wizard/template.sh": {
+      "sha256": "6566f147299bc6f1d941e64591ed04385416d543e11f96f564c7228f5018d0ed"
+    },
+    "payload/bro-matt/skills/writing-for-agents/agents/openai.yaml": {
+      "sha256": "eacb24b2a618cfb81dacb0416f4fdd75ddf3a8060f8ddb99aae1b1e301907e4b"
+    },
+    "payload/bro-matt/skills/writing-for-agents/SKILL-MECHANICS.md": {
+      "sha256": "c768e6307c7c10728c401c213f2c4ba71c542127eeb7ad2956aabd15a0fa0059"
+    },
+    "payload/bro-matt/skills/writing-for-agents/SKILL.md": {
+      "sha256": "9edd82e99648f4ced73d089c6da361d694c37595c4d4a0059981e21ab0f901c7"
+    },
+    "payload/bro-matt/THIRD_PARTY_NOTICES.md": {
+      "sha256": "8858080198100d8d7455aa163179290c6af82c6a05145e4818912ee830153812"
+    },
+    "payload/bro-matt/third-party/mattpocock-skills/LICENSE": {
+      "sha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5"
+    },
+    "payload/bro-matt/upstream/matt-pack.json": {
+      "sha256": "d6a5a3f5bd5358e44e007ea6af3e7764d8fea2c78b73b7849ce7dfbab92f821d"
+    },
+    "payload/bro-matt/upstream/provenance.json": {
+      "sha256": "c90fa27ca66c5997a972a63007d0d936bf5d8719fda571bb199195e4100a7ad8"
+    },
+    "payload/bro-matt/upstream/THIRD_PARTY_NOTICES.md": {
+      "sha256": "14dd55143b51b92d1facc5022ed83440bff99a9d205afebc9d893275e44e8463"
+    },
+    "lifecycle/tools/bro-matt/configure-project.mjs": {
+      "sha256": "d6d4d86a420d8d90028df6a6afc3ab0359e8fa675500906f775dbf527c97986b"
+    },
+    "lifecycle/tools/bro-matt/configure-system.mjs": {
+      "sha256": "654ec9c4e6c503c3b22acdf32cacd161e8bcab79481797c9ff6dc74d84ae1d42"
+    },
+    "lifecycle/tools/bro-matt/install.mjs": {
+      "sha256": "37fb4dd2a923016e51a54aba58392f96a277a9ad0cf126f95f0c2411f6203de7"
+    },
+    "lifecycle/tools/bro-matt/integrity.mjs": {
+      "sha256": "f9fef40faebc41d2c2ecb0eb6b0d3d89ee02fc16448a2ad82d8e27dc3e19fe3b"
+    },
+    "lifecycle/tools/bro-matt/uninstall-project.mjs": {
+      "sha256": "25a72f75b9b4c878e751045957b68c696c4b070bceea2050b664674682b169b6"
+    },
+    "lifecycle/tools/bro-matt/uninstall-system.mjs": {
+      "sha256": "25a72f75b9b4c878e751045957b68c696c4b070bceea2050b664674682b169b6"
+    }
+  }
+}

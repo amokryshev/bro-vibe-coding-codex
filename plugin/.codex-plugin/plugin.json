@@ -1,0 +1,10 @@
+{
+  "name": "bro-vibe-coding",
+  "version": "0.1.0",
+  "description": "Bro Vibe Coding: select tools and configure your computer and projects.",
+  "author": {
+    "name": "Alexander Mokryshev"
+  },
+  "license": "Proprietary",
+  "skills": "./skills/"
+}

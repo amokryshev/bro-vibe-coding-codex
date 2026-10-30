@@ -1,0 +1,86 @@
+{
+  "tool": "security-review",
+  "files": {
+    "payload/security-review/skill/references/catalog.json": {
+      "sha256": "fbd9afa34b5a6919c9cfdad494cd3dabf4d72a2dc32a0d684a3bac7508494f32"
+    },
+    "payload/security-review/skill/references/checklist.md": {
+      "sha256": "ffa51d79fdac3a394fd98c9d8ff964c86c204faf90782e8013c5c1ae4c44d4b2"
+    },
+    "payload/security-review/skill/references/controls.md": {
+      "sha256": "0ea183278fe57b1a4d39377ef0c3ec97e85ba8ac082aa19f1322958c518d2ebc"
+    },
+    "payload/security-review/skill/references/eval-index.json": {
+      "sha256": "6436ff59f8e87e12011948d456f1fab40b64828df80a1a3da413639e975f3fbc"
+    },
+    "payload/security-review/skill/references/matrix.json": {
+      "sha256": "65ff12c497990f94c354ef1e39ece39dd08cabad879b91ca1d6456acab912af6"
+    },
+    "payload/security-review/skill/references/procedure.md": {
+      "sha256": "2419bddd8c5252c77724d85ecde78c3b9ccf4ab8e46205f2714edb2897e43bca"
+    },
+    "payload/security-review/skill/references/review-record.md": {
+      "sha256": "403b96d68bcbae1a511188e36de8421fc1590eee941bd1bb2ab21361a37d88d4"
+    },
+    "payload/security-review/skill/references/risk-overlays.md": {
+      "sha256": "2343d366628bd363020e48cdbf78b9d14a579674bdd4421ce4632e52b822efe3"
+    },
+    "payload/security-review/skill/references/sources/api10-2023.html": {
+      "sha256": "ac00589e1bb28f4977b3c82dfb61713b7aac0cbd07b15bd40d8516ef86379524"
+    },
+    "payload/security-review/skill/references/sources/asvs-5.0.0.csv": {
+      "sha256": "98c8fe911b9edb403af8ee05d3ce8201ecac2659e313b053890a62847cdcf680"
+    },
+    "payload/security-review/skill/references/sources/asvs-assessment.md": {
+      "sha256": "a425fd085d43a46c94398e559d57c800a5bfadb0c41e22bff38f59d4714c5aac"
+    },
+    "payload/security-review/skill/references/sources/asvs-scope.md": {
+      "sha256": "324bda52f0e6ebd4e1332a4e960be22dfb0890ec03cc7b460ce7c67776b36325"
+    },
+    "payload/security-review/skill/references/sources/CC-BY-SA-4.0.txt": {
+      "sha256": "28a9529c7d0bb4dc51f4bf5c116a3d16ef247a052f7591466768ddf563fd1cf5"
+    },
+    "payload/security-review/skill/references/sources/cs.json": {
+      "sha256": "cd3269fc4c876aa99fa204d8d20a254cc191cf1210b4bfbbd40677b40965269d"
+    },
+    "payload/security-review/skill/references/sources/top10-2025.html": {
+      "sha256": "37db8253029a5a6afd4f8383cda997a0a482e45766110591bf8f5a3b0d423857"
+    },
+    "payload/security-review/skill/references/sources/wstg.json": {
+      "sha256": "ac6e96524d2af05c102832029585f6ab8e44dc17c465e472ff6669e020862048"
+    },
+    "payload/security-review/skill/references/sources.json": {
+      "sha256": "c2a579221c7ef713ebed96870aeb1e061ec0572078490ded48cf99d4360d8c9c"
+    },
+    "payload/security-review/skill/scripts/read-artifact.mjs": {
+      "sha256": "2a302dc84e957428013d698ed526544e9fc14b63ccee26d2e8ba5cf9ed1e2be6"
+    },
+    "payload/security-review/skill/scripts/review.mjs": {
+      "sha256": "863786e08e85ca2d2d4b1e8662f304c4f447a91405174c2512563af0aca1b0db"
+    },
+    "payload/security-review/skill/SKILL.md": {
+      "sha256": "0583a9263b1caa4f9a9c9632956dd0a389dfafd1c9ecf1fc1dc639b692cf24ba"
+    },
+    "payload/security-review/skill/THIRD_PARTY_NOTICES.md": {
+      "sha256": "63e46fd17feff80f0165aefd0187df704dabad9073f3206e2f9a8f98fc892dcc"
+    },
+    "lifecycle/tools/security-review/configure-project.mjs": {
+      "sha256": "654ec9c4e6c503c3b22acdf32cacd161e8bcab79481797c9ff6dc74d84ae1d42"
+    },
+    "lifecycle/tools/security-review/configure-system.mjs": {
+      "sha256": "df52c8ed5d0eb81eebc9d1c6049a6dd963fe5d5c6644e310205ad6cb0814d732"
+    },
+    "lifecycle/tools/security-review/install.mjs": {
+      "sha256": "37fb4dd2a923016e51a54aba58392f96a277a9ad0cf126f95f0c2411f6203de7"
+    },
+    "lifecycle/tools/security-review/integrity.mjs": {
+      "sha256": "f9fef40faebc41d2c2ecb0eb6b0d3d89ee02fc16448a2ad82d8e27dc3e19fe3b"
+    },
+    "lifecycle/tools/security-review/uninstall-project.mjs": {
+      "sha256": "b5614bd1b45d9b434bb21d1de984f2f64ad8e9a8a30855b0023971ed2421a7ea"
+    },
+    "lifecycle/tools/security-review/uninstall-system.mjs": {
+      "sha256": "b6e7b80eb0656878b0c64374f9d509d4aa978d238a2e6700fdf2b1e39b439bc9"
+    }
+  }
+}

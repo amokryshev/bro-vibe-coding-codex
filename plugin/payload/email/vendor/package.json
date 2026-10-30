@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@codefuturist/email-mcp": "0.2.3"
+  },
+  "overrides": {
+    "nodemailer": "9.0.6"
+  }
+}

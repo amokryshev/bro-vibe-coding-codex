@@ -1,0 +1,7 @@
+{
+  "description": "Paths relative to this file. source-manifest.json preserves the original source provenance.",
+  "license": "../LICENSE",
+  "publicOffer": "./public-offer/snapshot.html",
+  "evidence": "./public-offer/evidence.json",
+  "thirdPartyLicense": "../third-party/mattpocock-skills/LICENSE"
+}

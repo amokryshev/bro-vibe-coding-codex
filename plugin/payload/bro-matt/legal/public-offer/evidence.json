@@ -1,0 +1,10 @@
+{
+  "schema": "bro.public-offer-evidence/v1",
+  "evidenceId": "public-offer-ffbf3449069f-20260901",
+  "canonicalUrl": "https://amokryshev.ru/offer/",
+  "revision": "ffbf3449069f",
+  "retrievedAtUtc": "2026-09-01T10:40:49Z",
+  "snapshotPath": "public-offer/snapshot.html",
+  "snapshotSha256": "25eef35316ec16d7b12b83f4dea070e509325da3521edf180900729999ba12aa",
+  "licenseRevision": "1.0"
+}

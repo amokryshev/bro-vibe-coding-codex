@@ -1,0 +1,32 @@
+{
+  "tool": "atlassian",
+  "files": {
+    "payload/atlassian/endpoint.json": {
+      "sha256": "1d9bad5f3275b3cf8ab24e5bacdaebec82807ff0218d06aac829d519f8e2c948"
+    },
+    "lifecycle/tools/atlassian/configure-project.mjs": {
+      "sha256": "25f10ed59db0eb56cbfefefc97977aa415a2d4698c812307afc50711552e20ba"
+    },
+    "lifecycle/tools/atlassian/configure-system.mjs": {
+      "sha256": "73e9ec42d50bf1956bc4c08137d651efa7d14749fa4f09afbfda74b37a96bb2f"
+    },
+    "lifecycle/tools/atlassian/install.mjs": {
+      "sha256": "295069644f40d20fb37681ec13784d586041079fd790deb2d69f66224b86b4c6"
+    },
+    "lifecycle/tools/atlassian/integrity.mjs": {
+      "sha256": "f9fef40faebc41d2c2ecb0eb6b0d3d89ee02fc16448a2ad82d8e27dc3e19fe3b"
+    },
+    "lifecycle/tools/atlassian/mcp.mjs": {
+      "sha256": "f8ee47752ed134935fc7f1c30b5f8a80ad5f4f422b60aabb537d22336984c9d4"
+    },
+    "lifecycle/tools/atlassian/native.mjs": {
+      "sha256": "fd369579b4e13a88f3b9f5b080ad079ca8bfb7e4b4cf6a268db21caa07bc1a48"
+    },
+    "lifecycle/tools/atlassian/uninstall-project.mjs": {
+      "sha256": "d11392728694bd9be88a4be63f80f1906f8644a5d5b43cd1e7e734e9e4c251d3"
+    },
+    "lifecycle/tools/atlassian/uninstall-system.mjs": {
+      "sha256": "6867684ac7964a6259439b73a3ff099c8dd21a47baff7f0194ffbc38001293ed"
+    }
+  }
+}

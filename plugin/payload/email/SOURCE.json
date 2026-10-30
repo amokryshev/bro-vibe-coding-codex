@@ -1,0 +1,11 @@
+{
+  "package": "@codefuturist/email-mcp",
+  "version": "0.2.3",
+  "commit": "36eb8cab977aeb49f3da484f57a62150ad976702",
+  "registryMetadata": "vendor-registry-metadata.json",
+  "archive": "email-mcp-0.2.3-source.tar.gz",
+  "url": "https://codeload.github.com/codefuturist/email-mcp/tar.gz/36eb8cab977aeb49f3da484f57a62150ad976702",
+  "sha256": "ab9f8d09e6f881ac3df79bcf72c53f9e9a86a76b0da9d0cae0b1a35993db9c29",
+  "license": "LGPL-3.0-or-later",
+  "modified": false
+}

@@ -1,0 +1,21 @@
+{
+  "schema": "bro.email-runtime-vendor/v1",
+  "package": "@codefuturist/email-mcp",
+  "version": "0.2.3",
+  "resolved": "https://registry.npmjs.org/@codefuturist/email-mcp/-/email-mcp-0.2.3.tgz",
+  "integrity": "sha512-J9fG/HCZ0Kixy5k326WHDfvPOV9S4RTO+xSU5vvfEHcOfYkHiZfQz4dRx+xBg+QaOK5bqisKW+pCENCfQxpniw==",
+  "license": "LGPL-3.0-or-later",
+  "entrypoint": "node_modules/@codefuturist/email-mcp/dist/main.js",
+  "entrypointSha256": "ad50822b34750cb877a04fb6bfd162bc790b3dbf17c899d9a3e255df45621bf9",
+  "licenseSha256": "f6c6811039f740443819ca532d21ee0cc6896a6df73c2b65ee676eb79935cba6",
+  "lockfile": "package-lock.json",
+  "lockfileSha256": "c5f7f8c96ed4eaf96a626481a68e44eb0a5a2a959d33872aa0d84e7b9a1535e5",
+  "securityOverrides": {
+    "nodemailer": {
+      "version": "9.0.6",
+      "integrity": "sha512-IQUGFdhdGwI9+AWX+FpUt4DLmvFaOjTMEoneTIWX/RXxuy1TdenPwWrvFMSfLkPKl+HQEXWuSAxEMMbPYXtBmg==",
+      "reason": "GHSA-p6gq-j5cr-w38f affects nodemailer <=9.0.0"
+    }
+  },
+  "node": ">=24.0.0"
+}

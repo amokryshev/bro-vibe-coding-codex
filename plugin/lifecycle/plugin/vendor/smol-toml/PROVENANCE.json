@@ -1,0 +1,20 @@
+{
+  "name": "smol-toml",
+  "version": "1.4.2",
+  "license": "BSD-3-Clause",
+  "source": "https://registry.npmjs.org/smol-toml/-/smol-toml-1.4.2.tgz",
+  "archive_sha256": "829eee8dc90490d9671554b5cfd075976b61195221576ef8adec9732d3a94fef",
+  "files": {
+    "LICENSE": "fa5659948374d4f555594f47f6da073b40dc503e921aeeece30df4362b3051a5",
+    "date.js": "1714c5a11cca0eb99f11f176a35ee969a19cd5fcbf65eacb29360ea83704260d",
+    "error.js": "28dbfc2871c0707f97cebb5a8be7e343a9cee58250b5814813d748b90d9e0d3b",
+    "extract.js": "15adc12b7b02313d95637ca44ba0567ea87a0d5a29b06acdb4f5e2de7d8615b0",
+    "index.js": "ded3ee91f3ce1ef746f6b57459b0c68475658eacb8e88fd18336a5408de009a1",
+    "package.json": "25fb39f86ba28d92f813000efb08246abd465d52b53d97ffecc36a463e765999",
+    "parse.js": "1c82702f0b4244a4d10ef43806a581a80277ff239d27bfd98ae5662c47c706d5",
+    "primitive.js": "19dd21c70f18072eaf977435bd582223b03ac95f1dd6ed0ce884d29da73c77d5",
+    "stringify.js": "bc9a7cfbf0c90e394d77a78fbe83c46318418107036d92147345de910e2db1f2",
+    "struct.js": "43977aec2b4e4b54b94de7deea9052717a50ab4011c169e719db9a4e00518796",
+    "util.js": "9b411141923c467991e486390bd3716eda3e24c563e818302fbeb1f97db0b07f"
+  }
+}

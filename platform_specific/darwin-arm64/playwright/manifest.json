@@ -1,0 +1,25 @@
+{
+  "schema": "bro.playwright-platform/v1",
+  "platform": "darwin-arm64",
+  "browser": "chromium-headless-shell",
+  "revision": "1202",
+  "version": "143.0.7499.25",
+  "executable": "chrome-headless-shell-mac-arm64/chrome-headless-shell",
+  "archive": {
+    "sha256": "841a229494b0c2603fb5741e4b2b999732202153eb833ecec3e7afc2b5fd93db",
+    "size": 94475116,
+    "url": "https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1202/chromium-headless-shell-mac-arm64.zip"
+  },
+  "chunks": [
+    {
+      "name": "browser-000.part",
+      "size": 52428800,
+      "sha256": "bb9116e1959117951cfd8fb1307ab218cb3aac73e5937c43cdd35b5503e12e18"
+    },
+    {
+      "name": "browser-001.part",
+      "size": 42046316,
+      "sha256": "d829cd912bec13eea0904cfb1cf82bf6218a32fb684be068c64fb742b7adf0fa"
+    }
+  ]
+}

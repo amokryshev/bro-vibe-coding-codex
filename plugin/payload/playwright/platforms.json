@@ -1,0 +1,35 @@
+{
+  "browser": "chromium-headless-shell",
+  "revision": "1202",
+  "version": "143.0.7499.25",
+  "platforms": {
+    "darwin-x64": {
+      "url": "https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1202/chromium-headless-shell-mac.zip",
+      "archive": "darwin-x64-chromium-headless-shell-1202.zip",
+      "sha256": "65349e0e7293f643873ccad66b85517c704bc26b402e8e8d99d347cbad0870f9",
+      "size": 98441995,
+      "executable": "chrome-headless-shell-mac-x64/chrome-headless-shell"
+    },
+    "darwin-arm64": {
+      "url": "https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1202/chromium-headless-shell-mac-arm64.zip",
+      "archive": "darwin-arm64-chromium-headless-shell-1202.zip",
+      "sha256": "841a229494b0c2603fb5741e4b2b999732202153eb833ecec3e7afc2b5fd93db",
+      "size": 94475116,
+      "executable": "chrome-headless-shell-mac-arm64/chrome-headless-shell"
+    },
+    "linux-x64": {
+      "url": "https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1202/chromium-headless-shell-linux.zip",
+      "archive": "linux-x64-chromium-headless-shell-1202.zip",
+      "sha256": "c57508303e15a73770ff0d014a765f63d9112d5e012c269597a7a87f518bf8b4",
+      "size": 115043037,
+      "executable": "chrome-headless-shell-linux64/chrome-headless-shell"
+    },
+    "linux-arm64": {
+      "url": "https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1202/chromium-headless-shell-linux-arm64.zip",
+      "archive": "linux-arm64-chromium-headless-shell-1202.zip",
+      "sha256": "96fd3e8c22443aa2ed9a200e4e8500b27d8a5fb33f96e2f24e929fcef33d12af",
+      "size": 110096802,
+      "executable": "chrome-linux/headless_shell"
+    }
+  }
+}

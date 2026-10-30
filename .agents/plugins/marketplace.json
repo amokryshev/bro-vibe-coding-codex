@@ -1,0 +1,10 @@
+{
+  "name": "bro-vibe-coding-codex",
+  "interface": { "displayName": "Bro Vibe Coding" },
+  "plugins": [{
+    "name": "bro-vibe-coding",
+    "source": { "source": "local", "path": "./plugin" },
+    "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+    "category": "Developer Tools"
+  }]
+}

@@ -1,0 +1,11 @@
+import {readFile,mkdir} from 'node:fs/promises';
+import {join,dirname} from 'node:path';
+import {spawn} from 'node:child_process';
+const config=JSON.parse(await readFile(process.argv[2],'utf8'));
+const data=dirname(process.argv[2]);
+const env={PATH:process.env.PATH,HOME:join(data,'home'),TMPDIR:join(data,'tmp'),PLAYWRIGHT_BROWSERS_PATH:join(data,'browsers')};
+for(const path of [env.HOME,env.TMPDIR,join(data,'output')]) await mkdir(path,{recursive:true,mode:0o700});
+const child=spawn(process.execPath,[join(import.meta.dirname,'vendor/node_modules/@playwright/mcp/cli.js'),'--isolated','--headless','--block-service-workers','--output-dir',join(data,'output'),'--executable-path',config.executable],{env,stdio:'inherit'});
+for(const signal of ['SIGINT','SIGTERM']) process.on(signal,()=>child.kill(signal));
+child.on('error',()=>{console.error('Cannot start Playwright MCP');process.exitCode=1;});
+child.on('exit',code=>{process.exitCode=code??1;});

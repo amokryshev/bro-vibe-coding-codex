@@ -1,0 +1,85 @@
+{
+  "schema": "bro.security-review.sources/v1",
+  "retrieved": "2026-09-15",
+  "sources": [
+    {
+      "id": "ASVS-5.0.0",
+      "version": "5.0.0",
+      "revision": "60437a5ed660f757ab9a8d9e0b7181a06492446a",
+      "url": "https://raw.githubusercontent.com/OWASP/ASVS/v5.0.0/5.0/docs_en/OWASP_Application_Security_Verification_Standard_5.0.0_en.csv",
+      "path": "sources/asvs-5.0.0.csv",
+      "sha256": "98c8fe911b9edb403af8ee05d3ce8201ecac2659e313b053890a62847cdcf680",
+      "license": "CC-BY-SA-4.0",
+      "attribution": "OWASP Foundation and ASVS contributors",
+      "role": "requirements"
+    },
+    {
+      "id": "WSTG",
+      "version": "4.2",
+      "revision": "dd33419e10edb22b78d89325a6c2aad9f184e3a2",
+      "url": "https://github.com/OWASP/wstg/tree/dd33419e10edb22b78d89325a6c2aad9f184e3a2",
+      "path": "sources/wstg.json",
+      "sha256": "ac6e96524d2af05c102832029585f6ab8e44dc17c465e472ff6669e020862048",
+      "license": "CC-BY-SA-4.0",
+      "attribution": "OWASP Foundation and WSTG contributors",
+      "role": "methods",
+      "documentCount": 139
+    },
+    {
+      "id": "CS",
+      "version": "e2d422148bebd737e7d85e45347ae85ae5e878ba",
+      "revision": "e2d422148bebd737e7d85e45347ae85ae5e878ba",
+      "url": "https://github.com/OWASP/CheatSheetSeries/tree/e2d422148bebd737e7d85e45347ae85ae5e878ba",
+      "path": "sources/cs.json",
+      "sha256": "cd3269fc4c876aa99fa204d8d20a254cc191cf1210b4bfbbd40677b40965269d",
+      "license": "CC-BY-SA-4.0",
+      "attribution": "OWASP Foundation and CS contributors",
+      "role": "methods",
+      "documentCount": 51
+    },
+    {
+      "id": "ASVS-scope",
+      "version": "5.0.0",
+      "revision": "60437a5ed660f757ab9a8d9e0b7181a06492446a",
+      "url": "https://github.com/OWASP/ASVS/blob/60437a5ed660f757ab9a8d9e0b7181a06492446a/5.0/en/0x03-What-is-the-ASVS.md",
+      "path": "sources/asvs-scope.md",
+      "sha256": "324bda52f0e6ebd4e1332a4e960be22dfb0890ec03cc7b460ce7c67776b36325",
+      "license": "CC-BY-SA-4.0",
+      "attribution": "OWASP Foundation and ASVS contributors",
+      "role": "interpretation"
+    },
+    {
+      "id": "ASVS-assessment",
+      "version": "5.0.0",
+      "revision": "60437a5ed660f757ab9a8d9e0b7181a06492446a",
+      "url": "https://github.com/OWASP/ASVS/blob/60437a5ed660f757ab9a8d9e0b7181a06492446a/5.0/en/0x04-Assessment_and_Certification.md",
+      "path": "sources/asvs-assessment.md",
+      "sha256": "a425fd085d43a46c94398e559d57c800a5bfadb0c41e22bff38f59d4714c5aac",
+      "license": "CC-BY-SA-4.0",
+      "attribution": "OWASP Foundation and ASVS contributors",
+      "role": "interpretation"
+    },
+    {
+      "id": "top10",
+      "version": "2025",
+      "revision": "snapshot-sha256:37db8253029a5a6afd4f8383cda997a0a482e45766110591bf8f5a3b0d423857",
+      "url": "https://owasp.org/Top10/2025/",
+      "path": "sources/top10-2025.html",
+      "sha256": "37db8253029a5a6afd4f8383cda997a0a482e45766110591bf8f5a3b0d423857",
+      "license": "CC-BY-SA-4.0",
+      "attribution": "OWASP Foundation and project contributors",
+      "role": "risk-awareness"
+    },
+    {
+      "id": "api10",
+      "version": "2023",
+      "revision": "snapshot-sha256:ac00589e1bb28f4977b3c82dfb61713b7aac0cbd07b15bd40d8516ef86379524",
+      "url": "https://owasp.org/API-Security/editions/2023/en/0x11-t10/",
+      "path": "sources/api10-2023.html",
+      "sha256": "ac00589e1bb28f4977b3c82dfb61713b7aac0cbd07b15bd40d8516ef86379524",
+      "license": "CC-BY-SA-4.0",
+      "attribution": "OWASP Foundation and project contributors",
+      "role": "risk-awareness"
+    }
+  ]
+}

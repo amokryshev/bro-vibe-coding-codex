@@ -1,0 +1,15 @@
+{
+  "agent": "codex",
+  "version": "0.1.0",
+  "tools": [
+    "bro-matt",
+    "security-review",
+    "session-start",
+    "subagent-start",
+    "permissions",
+    "managed-curl",
+    "atlassian",
+    "playwright",
+    "email"
+  ]
+}

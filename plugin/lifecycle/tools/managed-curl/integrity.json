@@ -1,0 +1,41 @@
+{
+  "tool": "managed-curl",
+  "files": {
+    "payload/managed-curl/entrypoint.mjs": {
+      "sha256": "e25d59de641dfe606d9063387c94243af3d535c8fc77e6d2fe56534ffdadd529"
+    },
+    "payload/managed-curl/identity.mjs": {
+      "sha256": "04822d7a4c2d01ee936e3d766cce2891d94c348465b780f3be8f780d06e152f5"
+    },
+    "payload/managed-curl/managed-curl.mjs": {
+      "sha256": "d460f3d14504bf1ef22543b749609e1ac5412484fb3643901b90d4942781187a"
+    },
+    "payload/managed-curl/PROVENANCE.md": {
+      "sha256": "790f8fd0f050294351b5fe9e58a46f6139a4339e573c0b792dcb7960b4893b92"
+    },
+    "payload/managed-curl/SKILL.md": {
+      "sha256": "d8ff9000942039e532a6dc480a1c2bc4f3d0ed5faa3f0a12ca13b8492173b1eb"
+    },
+    "lifecycle/tools/managed-curl/configure-project.mjs": {
+      "sha256": "979cb0dec48de007b876d33ac94c2702a37c69763f749e3ea3f73958efbf9b61"
+    },
+    "lifecycle/tools/managed-curl/configure-system.mjs": {
+      "sha256": "adcddc4009b82c2fb6675508dc2a2d3cefc922e5d71fc83ee3a3046261349ad0"
+    },
+    "lifecycle/tools/managed-curl/install.mjs": {
+      "sha256": "37fb4dd2a923016e51a54aba58392f96a277a9ad0cf126f95f0c2411f6203de7"
+    },
+    "lifecycle/tools/managed-curl/integrity.mjs": {
+      "sha256": "f9fef40faebc41d2c2ecb0eb6b0d3d89ee02fc16448a2ad82d8e27dc3e19fe3b"
+    },
+    "lifecycle/tools/managed-curl/resolve-curl.mjs": {
+      "sha256": "3eda7fe42c0a3042ef24eb67f532e77017f7b55bace2ce641612b72bdb24f4fc"
+    },
+    "lifecycle/tools/managed-curl/uninstall-project.mjs": {
+      "sha256": "25a72f75b9b4c878e751045957b68c696c4b070bceea2050b664674682b169b6"
+    },
+    "lifecycle/tools/managed-curl/uninstall-system.mjs": {
+      "sha256": "25a72f75b9b4c878e751045957b68c696c4b070bceea2050b664674682b169b6"
+    }
+  }
+}
